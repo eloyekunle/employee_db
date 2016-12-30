@@ -25,7 +25,7 @@ Follow appropriate compilation instructions for your compiler.
 
     >> cmake .
     >> make
-    >> ./Polling
+    >> ./Employee
 
 ####Copyright
 © 2016 [Oyekunle Elijah PlayMice](http://www.playmiceweb.com/) <elijah@playmiceweb.com>
